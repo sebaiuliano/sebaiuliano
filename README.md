@@ -12,7 +12,6 @@
 
 - 📫 Para contactarme: **sebaiuliano@hotmail.com**
 
-
 ___
 
 <h1 align="center">Hi 👋, I'm Sebastian Iuliano</h1>
@@ -28,6 +27,8 @@ ___
 <h4 align="left">I've also worked with device's features such as bluetooth, camera, storage and vibration</h4>
 
 - 📫 How to reach me **sebaiuliano@hotmail.com**
+
+___
 
 <h3 align="left">Contactame en redes / Connect with me:</h3>
 <p align="left">
